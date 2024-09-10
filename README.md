@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 | 2024 | 대출여부  | [링크](www.naver.com) |
 
 
+ 년도 | 프로젝트명 | 깃허브 링크 |
+|------|------------|-------------|
+| 2024 | 대쉬보드(태블로)  | [링크](https://public.tableau.com/app/profile/.73896753/vizzes) | 
+
+
 
 
 
