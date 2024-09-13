@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 | 2024 | 태양광발전예측 | [링크](https://github.com/w00jji/Solar_power_output_prediction) | 
 | 2024 | 주식 종가 예측 | [링크](https://github.com/w00jji/stock_pred_ML) | 
 | 2024 | 건설사고 | [링크](https://github.com/w00jji/Construction_accident) | 
-| 2024 | 신용등급  | [링크](www.naver.com) |
+| 2024 | 신용등급  | [링크](https://github.com/w00jji/Credit_score_pred) |
 | 2024 | 대출여부  | [링크](www.naver.com) |
 
 
