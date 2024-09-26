@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
  년도 | 공부 | 깃허브 링크 |
 |------|------------|-------------|
-| 2024 | 데이터 정제,분석,시각화,ML 기초  | [링크](https://public.tableau.com/app/profile/.73896753/vizzes) | 
+| 2024 | 데이터 정제,분석,시각화,ML 기초  | (https://github.com/w00jji/Data_Analysis_Basics) | 
 
 
 
