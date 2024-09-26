@@ -41,6 +41,7 @@ Here are some ideas to get you started:
  년도 | 공부 | 깃허브 링크 |
 |------|------------|-------------|
 | 2024 | 데이터 정제,분석,시각화,ML 기초  | [링크](https://github.com/w00jji/Data_Analysis_Basics) | 
+| 2024 | SQL  | [링크] (https://github.com/w00jji/MySQL_study/tree/main) |
 | 2024 | 통계  | [링크](https://github.com/w00jji/Statistics) | 
 | 2024 | 머신러닝 기초  | [링크](https://github.com/w00jji/ML_Basic/tree/main) | 
 | 2024 | 머신러닝 고급  | [링크](https://github.com/w00jji/ML_deepening) |
