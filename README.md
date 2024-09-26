@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 |------|------------|-------------|
 | 2024 | 데이터 정제,분석,시각화,ML 기초  | [링크](https://github.com/w00jji/Data_Analysis_Basics) | 
 | 2024 | 통계  | [링크](https://github.com/w00jji/Statistics) | 
-
+| 2024 | 머신러닝 기초  | [링크](https://github.com/w00jji/ML_Basic/tree/main) | 
 
 
 
