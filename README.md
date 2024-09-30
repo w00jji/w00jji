@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 | 년도 | 프로젝트명 | 깃허브 링크 |
 |------|------------|-------------|
 | 2024 | LLM,다중 분류 기반 피부 진단 서비스 | [링크](https://github.com/w00jji/Skin_type_diagnosis) |
-| 2024 | 맞춤형 대출 상품 추천으로인한 수익 향상 및 신용등급 예측을 통한 신규 고객 유입 | [링크]
-(https://github.com/w00jji/Credit_score_pred) |
+| 2024 | 맞춤형 대출 상품 추천으로인한 수익 향상 및 신용등급 예측을 통한 신규 고객 유입 | [링크](https://github.com/w00jji/Credit_score_pred) |
 | 2024 | 건설 사고 사례 분석 및 개선안 도출 | [링크](https://github.com/w00jji/Construction_accident) | 
 | 2024 | 저평가 성장주 추천 및 모델링을 통한 예측 | [링크](https://github.com/w00jji/stock_pred_ML) | 
 | 2024 | 태양광 발전소 효율성 극대화를 위한 데이터 분석 및 모델링 | [링크](https://github.com/w00jji/Solar_power_output_prediction) | 
