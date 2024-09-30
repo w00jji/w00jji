@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 | 2024 | 통계  | [링크](https://github.com/w00jji/Statistics) | 
 | 2024 | 머신러닝 기초  | [링크](https://github.com/w00jji/ML_Basic/tree/main) | 
 | 2024 | 머신러닝 고급  | [링크](https://github.com/w00jji/ML_deepening) |
+| 2024 | 크롤링(스크래핑)  | [링크](https://github.com/w00jji/Scraping_learning) |
 
 
 
