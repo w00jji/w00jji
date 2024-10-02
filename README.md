@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 
- 년도 | 프로젝트명 | 깃허브 링크 |
+ 년도 | 프로젝트명 | 태블로 퍼블릭 링크 |
 |------|------------|-------------|
 | 2024 | 대쉬보드(태블로)  | [링크](https://public.tableau.com/app/profile/.73896753/vizzes) | 
 
