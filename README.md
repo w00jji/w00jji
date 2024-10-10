@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 | 년도 | 프로젝트명 | 깃허브 링크 |
 |------|------------|-------------|
+| 2024 | 부동산 매물 추천 시스템 | [링크](https://github.com/w00jji/-Real_Estate_Recommendation_System)|
 | 2024 | LLM,다중 분류 기반 피부 진단 서비스 | [링크](https://github.com/w00jji/Skin_type_diagnosis) |
 | 2024 | 맞춤형 대출 상품 추천으로인한 수익 향상 및 신용등급 예측을 통한 신규 고객 유입 | [링크](https://github.com/w00jji/Credit_score_pred) |
 | 2024 | 건설 사고 사례 분석 및 개선안 도출 | [링크](https://github.com/w00jji/Construction_accident) | 
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
 | 2024 | 머신러닝 기초  | [링크](https://github.com/w00jji/ML_Basic/tree/main) | 
 | 2024 | 머신러닝 고급  | [링크](https://github.com/w00jji/ML_deepening) |
 | 2024 | 추천 시스템 | [링크](https://github.com/w00jji/Recommendation_system_lr) |
-| 2024 | 크롤링(스크래핑)  | [링크](https://github.com/w00jji/Scraping_learning) |https://github.com/w00jji/Recommendation_system_lr
+| 2024 | 크롤링(스크래핑)  | [링크](https://github.com/w00jji/Scraping_learning) | 
 
 
 
