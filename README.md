@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 | 년도 | 프로젝트명 | 깃허브 링크 |
 |------|------------|-------------|
+| 2024 | iMbank, 하나은행 기사 분석 및 크롤링 | [링크](https://github.com/w00jji/Amazon_review_analysis)|
 | 2024 | Amazon 리뷰 분석 및 크롤링 | [링크](https://github.com/w00jji/Amazon_review_analysis)|
 | 2024 | 부동산 매물 추천 시스템 | [링크](https://github.com/w00jji/-Real_Estate_Recommendation_System)|
 | 2024 | LLM,다중 분류 기반 피부 진단 서비스 | [링크](https://github.com/w00jji/Skin_type_diagnosis) |
