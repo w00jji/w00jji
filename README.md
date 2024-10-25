@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 | 2024 | 추천 시스템 | [링크](https://github.com/w00jji/Recommendation_system_lr) |
 | 2024 | 크롤링(스크래핑)  | [링크](https://github.com/w00jji/Scraping_learning) | 
 | 2024 | 비정형 데이터  | [링크](https://github.com/w00jji/Unstructured_data_lr) |
+| 2024 | 금융분석  | [링크](https://github.com/w00jji/Financial_analysis_lr)|
 
 
 
